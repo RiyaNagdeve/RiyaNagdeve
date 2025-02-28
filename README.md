@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Riya Nagdeve and I'm a Programmer Analyst from Nagpur.</h2>
+<h2 align="left">Hi 👋! My name is RIYA NAGDEVE and I'm a PROGRAMMER ANALYST .</h2>
 
 ###
 
